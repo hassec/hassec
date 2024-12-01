@@ -1,4 +1,4 @@
-I'm a Physicist / Software Engineer passionate about building software tools that follow a coherent design and are easy to use.
+Scientific Software Engineer with expertise in optimizing software and building tools to accelerate researchers.
 
 At Commonwealth Fusion Systems, I am developing the scientific software tools required to simulate and plan for SPARC operations. Some of these tools are being open sourced and you can find them at [cfs-energy](https://github.com/cfs-energy/)
 
